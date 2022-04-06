@@ -2,9 +2,6 @@
 
 
 ### My Name Aliffedo Desvian or just call me Edo 
-because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🏫 I'm currently studying for a bachelor's degree at [Universitas Trunojo Madura](https://www.trunojoyo.ac.id/)
 - 👨‍💻 I’m currently majoring in Information System
