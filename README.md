@@ -9,15 +9,10 @@
 <br/>
 
 <div align="center">
-
-🏫 I'm currently studying for a bachelor's degree at [Universitas Trunojo Madura](https://www.trunojoyo.ac.id/)
-
-👨‍💻 I’m currently majoring in **Information System**
-
-💬 Ask me about **everything**
-
-⚡ Fun fact: I love **Stardew Valley**
-
+    🏫 I'm currently studying for a bachelor's degree at [Universitas Trunojo Madura](https://www.trunojoyo.ac.id/)<br><br>
+    👨‍💻 I’m currently majoring in **Information System**<br><br>
+    💬 Ask me about **everything**<br><br>
+    ⚡ Fun fact: I love **Stardew Valley**<br><br>
  </div>
  
 <div align="center"> 
@@ -48,24 +43,32 @@
   <h2> Contributions Progress</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adesvian/Adesvian/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Adesvian&theme=react&hide_border=true&locale=id" alt="streak stats"/><br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adesvian&show_icons=true&theme=react&hide_border=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adesvian&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+	<br/>
+	<a href="https://github.com/Adesvian">
+	<img src="https://streak-stats.demolab.com?user=Adesvian&theme=react&hide_border=true&locale=id"/>
+	</a>
+</div>
+
+<div align="center">
+	<br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adesvian&show_icons=true&theme=react&hide_border=true" alt="Adesvian" />
+</div>
+
+<div align="center">
+	<br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adesvian&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<br/>
+<br>
