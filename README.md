@@ -9,11 +9,12 @@
 <br/>
 
 <div align="center">
-    🏫 I'm currently studying for a bachelor's degree at [Universitas Trunojo Madura](https://www.trunojoyo.ac.id/)<br><br>
+    🏫 I'm currently studying for a bachelor's degree at <a href="https://www.trunojoyo.ac.id/">Universitas Trunojo Madura</a><br><br>
     👨‍💻 I’m currently majoring in **Information System**<br><br>
     💬 Ask me about **everything**<br><br>
     ⚡ Fun fact: I love **Stardew Valley**<br><br>
  </div>
+
  
 <div align="center"> 
   <a href="mailto:Adesvian2001@gmail.com">
