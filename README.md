@@ -10,9 +10,9 @@
 
 <div align="center">
     🏫 I'm currently studying for a bachelor's degree at <a href="https://www.trunojoyo.ac.id/">Universitas Trunojo Madura</a><br><br>
-    👨‍💻 I’m currently majoring in **Information System**<br><br>
-    💬 Ask me about **everything**<br><br>
-    ⚡ Fun fact: I love **Stardew Valley**<br><br>
+    👨‍💻 I’m currently majoring in <b>Information System</b><br><br>
+    💬 Ask me about <b>everything</b><br><br>
+    ⚡ Fun fact: I love <b>Stardew Valley</b><br><br>
  </div>
 
  
