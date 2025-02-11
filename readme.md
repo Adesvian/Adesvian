@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Aliffedo+Desvian!;" />
 </h1>
 
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h3 align="center">Git Push Specialist – Pull? That’s someone else’s job.</h3>
 
 <br/>
 
