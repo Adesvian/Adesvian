@@ -7,11 +7,6 @@
 <h3 align="center">Git Push Specialist – Pull? That’s someone else’s job.</h3>
 
 <br/>
-
-<div align="center">
-    ⚡ I love <b>Stardew Valley</b><br><br>
- </div>
-
  
 <div align="center"> 
   <a href="mailto:Adesvian2001@gmail.com">
