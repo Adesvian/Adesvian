@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/aliffedo-desvian-b1518925b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1qm3awHpwvu_66pqLMWUHKwyNP9UiMNL2/view?usp=sharing" target="_blank">
+  <a href="https://adesvia01.wixstudio.com/debugme" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,react,bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,java,nextjs,mysql,php" /><br>
 </div>
 
